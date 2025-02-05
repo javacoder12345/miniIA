@@ -7,7 +7,6 @@ public class MiniIA {
     public MiniIA() {
         conocimiento = new HashMap<>();
         conocimiento.put("hola", "¡Hola! ¿Cómo estás?");
-        conocimiento.put("cómo estás", "Soy un programa, así que no tengo sentimientos, pero gracias por preguntar.");
         conocimiento.put("adiós", "¡Hasta luego! Que tengas un buen día.");
     }
     
